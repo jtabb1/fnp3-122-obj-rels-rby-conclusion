@@ -1,4 +1,4 @@
-# Ruby Object Relationships Conclusions
+# Object Relationships Conclusion
 
 Over the past several lessons and labs, we've seen in detail how relationships
 between Ruby objects work. Always keep in mind that when we're writing programs,
